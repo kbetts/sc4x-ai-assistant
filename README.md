@@ -1,7 +1,7 @@
 # AI MicroApp (Assistant)
 
 ## Overview
-This AI MicroApp template is a simple Streamlit application that demonstrates how to integrate AI models with a web interface using Streamlit. It means that you can build and share AI "MicroApps" as simply as building a form. 
+This AI MicroApp app is based on a template at https://github.com/jswope00/AI-Microapp-Template-Assistant. It is a simple Streamlit application that demonstrates how to integrate AI models with a web interface using Streamlit. It means that you can build and share AI "MicroApps" as simply as building a form. 
 
 It works with the OpenAI Assistant API and similar. An AI Assistant guides the user through "phases" in a conversation-style interaction. 
 
